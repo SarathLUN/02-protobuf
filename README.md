@@ -1,2 +1,2 @@
 # 02-protobuf
-part of project-two.
+Part of project BSS/OSS suite.
